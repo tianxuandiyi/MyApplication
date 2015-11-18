@@ -6,4 +6,6 @@
 /build
 /captures
 
-./*.c
+/a.c
+
+/b.c
